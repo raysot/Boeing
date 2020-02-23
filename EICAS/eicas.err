@@ -1,0 +1,25 @@
+C:\Program Files\Microsoft SDK\include\winnt.h(603): Error! E003: col(1) missing return value
+C:\Program Files\Microsoft SDK\include\winnt.h(603): Note! N393: col(1) included from C:\Program Files\Microsoft SDK\include\windef.h(166)
+C:\Program Files\Microsoft SDK\include\winnt.h(603): Note! N393: col(1) included from C:\Program Files\Microsoft SDK\include\Windows.h(161)
+C:\Program Files\Microsoft SDK\include\winnt.h(603): Note! N393: col(1) included from eicas.cpp(1)
+C:\Program Files\Microsoft SDK\include\winnt.h(619): Error! E003: col(1) missing return value
+C:\Program Files\Microsoft SDK\include\winnt.h(635): Error! E003: col(1) missing return value
+C:\Program Files\Microsoft SDK\include\winnt.h(2319): Error! E003: col(38) missing return value
+C:\Program Files\Microsoft SDK\include\winnt.h(2320): Error! E003: col(66) missing return value
+..\..\include\gauges.h(10): Error! E125: col(31) invalid redefinition of the typedef name 'UINT32'
+C:\Program Files\Microsoft SDK\include\basetsd.h(36): Note! N392: col(29) definition: 'UINT32'
+..\..\include\main.h(8): Error! E059: col(19) unable to open 'unistd.h'
+..\..\include\main.h(9): Error! E059: col(21) unable to open 'linux/lp.h'
+..\..\include\main.h(10): Error! E059: col(23) unable to open 'sys/socket.h'
+..\..\include\main.h(11): Error! E059: col(18) unable to open 'netdb.h'
+..\..\include\main.h(12): Error! E059: col(19) unable to open 'sys/io.h'
+..\..\include\main.h(13): Error! E059: col(23) unable to open 'netinet/in.h'
+..\..\include\main.h(14): Error! E059: col(22) unable to open 'arpa/inet.h'
+..\..\include\main.h(24): Error! E059: col(19) unable to open 'GL/glx.h'
+..\..\include\gauges.h(10): Error! E119: col(31) illegal combination of type specifiers
+..\..\include\gauges.h(10): Error! E118: col(31) nameless declaration is not allowed
+eicas.cpp(2643): Error! E029: col(9) symbol 'hwnd' has not been declared
+eicas.cpp(2648): Error! E029: col(33) symbol 'mouseptr' has not been declared
+eicas.cpp(2699): Error! E029: col(25) symbol 'wsl' has not been declared
+eicas.cpp(2709): Error! E029: col(25) symbol 'windowframes' has not been declared
+eicas.cpp(2754): Error! E133: col(9) too many errors: compilation aborted
